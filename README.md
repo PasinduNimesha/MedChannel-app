@@ -1,4 +1,4 @@
-# med_channel
+# MedChannel
 
 A new Flutter project.
 
